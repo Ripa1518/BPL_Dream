@@ -1,6 +1,6 @@
 import logo from "../../assets/logo.png";
 import coin from '../../assets/icons8-coins-64.png';
-const Navber = () => {
+const Navber = ({freeCredit}) => {
     return (
         <div className="navbar bg-base-100 ">
   <div className="navbar-start">
@@ -29,7 +29,7 @@ const Navber = () => {
       <li><a>Teams</a></li>
       <li><a>Schedules</a></li>
     </ul>
-    <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl text-3xl rounded-2xl"><span>0</span> Coin <img className="w-8" src={coin} alt="" /></button>
+    <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl lg:text-3xl rounded-2xl"><span>{freeCredit}</span> Coin <img className="w-4 lg:w-8" src={coin} alt="" /></button>
   </div>
 </div>
     );

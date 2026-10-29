@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://placehold.co/300x300?text=Player+1",
+    "image": "https://i.ibb.co.com/gZgS8HQ9/cr1.avif",
     "name": "Arif Hasan",
     "country": "Bangladesh",
     "role": "Batter",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "https://placehold.co/300x300?text=Player+2",
+    "image": "https://i.ibb.co.com/S42xHCrd/cr2.webp",
     "name": "Rahul Mehta",
     "country": "India",
     "role": "All-Rounder",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "https://placehold.co/300x300?text=Player+3",
+    "image": "https://i.ibb.co.com/Fb7fDWC6/cr3.jpg",
     "name": "Daniel Smith",
     "country": "Australia",
     "role": "Bowler",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "https://placehold.co/300x300?text=Player+4",
+    "image": "https://i.ibb.co.com/CpnGgv70/c4.webp",
     "name": "Kane Mitchell",
     "country": "New Zealand",
     "role": "Batter",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "https://placehold.co/300x300?text=Player+5",
+    "image": "https://i.ibb.co.com/XrdKqFD8/c5.webp",
     "name": "Mohammad Saif",
     "country": "Pakistan",
     "role": "Wicket-Keeper",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "https://placehold.co/300x300?text=Player+6",
+    "image": "https://i.ibb.co.com/RpjR1TMG/c6.webp",
     "name": "Liam Anderson",
     "country": "England",
     "role": "All-Rounder",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "https://placehold.co/300x300?text=Player+7",
+    "image": "https://i.ibb.co.com/qML5yw7v/c7.jpg",
     "name": "Dinesh Perera",
     "country": "Sri Lanka",
     "role": "Bowler",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "https://placehold.co/300x300?text=Player+8",
+    "image": "https://i.ibb.co.com/chwRLWXX/c10.jpg",
     "name": "Rashid Khan",
     "country": "Afghanistan",
     "role": "All-Rounder",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "https://placehold.co/300x300?text=Player+9",
+    "image": "https://i.ibb.co.com/zhjRVhns/c9.jpg",
     "name": "Carlos Silva",
     "country": "West Indies",
     "role": "Batter",
